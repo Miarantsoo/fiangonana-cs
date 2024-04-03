@@ -1,0 +1,24 @@
+﻿@model Mpiangona
+@{
+    ViewData["Title"] = "Login";
+}
+
+<h1 class="mt-5 mb-4 text-center">Login</h1>
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <form asp-action="Login" asp-controller="Mpiangona">
+                <div class="form-group">
+                    <label for="login">Login:</label>
+                    <input type="email" class="form-control" id="login" name="email" required />
+                </div>
+                <div class="form-group">
+                    <label for="password">Password:</label>
+                    <input type="password" class="form-control" id="password" name="password" required />
+                </div>
+                <button type="submit" class="btn btn-primary btn-block mt-3">Submit</button>
+            </form>
+        </div>
+    </div>
+</div>

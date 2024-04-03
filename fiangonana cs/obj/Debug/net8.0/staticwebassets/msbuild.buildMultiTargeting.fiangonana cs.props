@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\fiangonana cs.props" />
+</Project>

@@ -1,0 +1,50 @@
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\bin\Debug\net8.0\appsettings.json
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\bin\Debug\net8.0\fiangonana cs.staticwebassets.runtime.json
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\bin\Debug\net8.0\fiangonana cs.exe
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\bin\Debug\net8.0\fiangonana cs.deps.json
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\bin\Debug\net8.0\fiangonana cs.runtimeconfig.json
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\bin\Debug\net8.0\fiangonana cs.dll
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\bin\Debug\net8.0\fiangonana cs.pdb
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\obj\Debug\net8.0\fiangonana cs.csproj.AssemblyReference.cache
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\obj\Debug\net8.0\fiangonana cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\obj\Debug\net8.0\fiangonana cs.AssemblyInfoInputs.cache
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\obj\Debug\net8.0\fiangonana cs.AssemblyInfo.cs
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\obj\Debug\net8.0\fiangonana cs.csproj.CoreCompileInputs.cache
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\obj\Debug\net8.0\fiangonana cs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\obj\Debug\net8.0\fiangonana cs.RazorAssemblyInfo.cache
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\obj\Debug\net8.0\fiangonana cs.RazorAssemblyInfo.cs
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\obj\Debug\net8.0\staticwebassets\msbuild.fiangonana cs.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\obj\Debug\net8.0\staticwebassets\msbuild.build.fiangonana cs.props
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.fiangonana cs.props
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.fiangonana cs.props
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\obj\Debug\net8.0\scopedcss\bundle\fiangonana cs.styles.css
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\obj\Debug\net8.0\scopedcss\projectbundle\fiangonana cs.bundle.scp.css
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\obj\Debug\net8.0\fiangonana cs.csproj.CopyComplete
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\obj\Debug\net8.0\fiangonana cs.dll
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\obj\Debug\net8.0\refint\fiangonana cs.dll
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\obj\Debug\net8.0\fiangonana cs.pdb
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\obj\Debug\net8.0\fiangonana cs.genruntimeconfig.cache
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\obj\Debug\net8.0\ref\fiangonana cs.dll
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\bin\Debug\net8.0\System.Data.Odbc.dll
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\bin\Debug\net8.0\runtimes\freebsd\lib\net8.0\System.Data.Odbc.dll
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\bin\Debug\net8.0\runtimes\illumos\lib\net8.0\System.Data.Odbc.dll
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\bin\Debug\net8.0\runtimes\ios\lib\net8.0\System.Data.Odbc.dll
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.Data.Odbc.dll
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.Data.Odbc.dll
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\bin\Debug\net8.0\runtimes\solaris\lib\net8.0\System.Data.Odbc.dll
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\bin\Debug\net8.0\runtimes\tvos\lib\net8.0\System.Data.Odbc.dll
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.Odbc.dll
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Negotiate.dll
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\bin\Debug\net8.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Miarantsoa\ITU\S4\Programmation\fiangonana cs\fiangonana cs\bin\Debug\net8.0\System.Security.Permissions.dll
